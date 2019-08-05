@@ -2,4 +2,8 @@ First Line
 Second Line
 Third Line - v2
 Fourth Line
+<<<<<<< HEAD
 Fifth Line - v2
+=======
+Fifth Line
+>>>>>>> 51fce3909a3f75d18e9fd4067ba46cf3d880436f
